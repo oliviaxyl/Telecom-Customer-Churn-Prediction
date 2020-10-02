@@ -10,11 +10,11 @@ The purpose of this project is ________. (Describe the main goals of the project
 ### Methods Used
 * Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
 * Trained Classifiers (KNN, GaussianNB, SVM, and Artificial Neural Network) 
-* Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost).
-* Evaluation Algorithms performance with metrics
+* Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost)
+* Evaluated Algorithms performance in metrics
 
 ### Technologies
 * Jupyter, Python 3
-* Pandas, Numpy, Matplotlib
+* Pandas, Numpy, Matplotlib, Scikit-learn
 
 ## Project Description
