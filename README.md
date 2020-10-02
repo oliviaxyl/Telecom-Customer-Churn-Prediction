@@ -8,7 +8,7 @@
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Methods Used
-* Performe Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
+* Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
 * Trained Classifiers (KNN, GaussianNB, SVM, and Artificial Neural Network) 
 * Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost).
 * Algorithms performance evaluation with metrics
