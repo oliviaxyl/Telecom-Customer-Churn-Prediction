@@ -58,6 +58,16 @@ The purpose of this project is to predict behavior to retain customers.
 
 ![learningcurve](https://user-images.githubusercontent.com/49653689/94983763-e5a14100-0513-11eb-8f4d-b027883dad27.png)
 
+Training score (red line) decreases and plateau
+Indicates underfitting
+High bias
+
+Cross-validation score (green line) stagnating throughout
+Unable to learn from data
+
+Low scores (high errors)
+Should tweak model (perhaps increase model complexity)
+
 ## Reference
 
 Gaussian NB
