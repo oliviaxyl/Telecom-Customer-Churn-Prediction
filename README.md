@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to predict behavior to retain customers.
 
 ### Methods Used
 * Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
@@ -21,7 +21,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Data Source
 
-[Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+[Kaggle : Telcom Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 ### Data Pre-processing
 
