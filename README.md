@@ -56,7 +56,7 @@ The purpose of this project is to predict behavior to retain customers.
 
 ## Further Work
 
-
+![learningcurve](https://user-images.githubusercontent.com/49653689/94983763-e5a14100-0513-11eb-8f4d-b027883dad27.png)
 
 ## Reference
 
