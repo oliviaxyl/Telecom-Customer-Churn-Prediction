@@ -18,3 +18,32 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Pandas, Numpy, Matplotlib, Scikit-learn
 
 ## Project Description
+
+### Results
+
+* Logistics Regression: 74.73%
+
+* KNN Classifier: 75.53%
+
+* SVM Classifier: 76.07%
+
+* Decision Tree: 72.59%
+
+* Random Forest Classifier: 75.67%
+
+* AdaBoost: 77.14% (*** Best Model ***) 
+
+* XGBoost: 76.74%
+
+* NaiveBayes Classifier: 74.73%
+
+* Artificial Neural network: 74.73%
+
+
+## Further Work
+
+
+
+## Reference
+
+
