@@ -25,11 +25,13 @@ The purpose of this project is to predict behavior to retain customers.
 
 ### Data Pre-processing
 
-### Machine Learning Classifiers
+### Data Modeling
 
-### Tree-based Ensemble Methods
+#### Machine Learning
 
-### Artificial Neural network
+#### Tree-based Ensemble Methods
+
+#### Artificial Neural network
 
 ### Test Accuracy
 
