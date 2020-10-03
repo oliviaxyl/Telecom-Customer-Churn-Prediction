@@ -21,6 +21,8 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Data Source
 
+[Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+
 ### Data Pre-processing
 
 ### Machine Learning Classifiers
