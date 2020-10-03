@@ -15,11 +15,19 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Technologies
 * Jupyter, Python 3
-* Pandas, Numpy, Matplotlib, Scikit-learn
+* Pandas, Numpy, sklearn, Matplotlib, Seaborn
 
 ## Project Description
 
 ### Data Source
+
+### Data Pre-processing
+
+### Machine Learning Classifiers
+
+### Tree-based Ensemble Methods
+
+### Artificial Neural network
 
 ### Test Accuracy
 
