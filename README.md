@@ -31,7 +31,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 * Random Forest Classifier: 75.67%
 
-* AdaBoost: 77.14% (*** Best Model ***) 
+* AdaBoost: 77.14% (Best Model) 
 
 * XGBoost: 76.74%
 
