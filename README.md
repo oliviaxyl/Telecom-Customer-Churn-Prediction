@@ -19,7 +19,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Project Description
 
-### Results
+### Test Accuracy
 
 * Logistics Regression: 74.73%
 
