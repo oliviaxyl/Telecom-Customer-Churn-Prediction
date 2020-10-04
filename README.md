@@ -27,8 +27,8 @@ The purpose of this project is to predict behaviors to retain customers.
 
 * Replaced missing 'TotalCharges' with its mean value
 * Under-sampled 'Churn' to 'No Churn' ratio to 1:1
-* Performed One-Hot Encoding and removed dummies which correlation > 50%
-* PCA dimension reduction (23 dummies retain 100% variance)
+* One-Hot Encoding and only dummies which correlation < 50% retained
+* PCA dimension reduction (100% variance with 23/45 dummies)
 
 ### Model Training
 
