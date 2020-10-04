@@ -4,7 +4,7 @@
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to predict behaviors to retain customers.
 
 ### Methods Used
@@ -15,7 +15,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ### Technologies
 * Jupyter, Python 3
-* Pandas, Numpy, sklearn, Matplotlib, Seaborn
+* Pandas, Numpy, Matplotlib, Seaborn, sklearn
 
 ## Project Description
 
@@ -25,13 +25,28 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ### Data Pre-processing
 
-### Data Modeling
+* Replaced missing 'TotalCharges' with its mean value
+* Under-sampled 'Churn' to 'No Churn' ratio to 1:1
+* Performed One-Hot Encoding and removed dummies which correlation > 50%
+* PCA dimension reduction (23 dummies retain 100% variance)
+
+### Model Training
 
 #### Machine Learning
 
+* k-nearest neighbors (Tuned hyperparameters: )
+* GaussianNB (Tuned hyperparameters: )
+* SVM (Tuned hyperparameters: )
+
 #### Tree-based Ensemble Methods
 
-#### Artificial Neural network
+* Random Forest (Tuned hyperparameters: )
+* Adaboost (Tuned hyperparameters: )
+* XGBoos (Tuned hyperparameters: )
+
+#### Neural network
+
+* Artificial Neural Network (Tuned hyperparameters: )
 
 ### Test Accuracy
 
