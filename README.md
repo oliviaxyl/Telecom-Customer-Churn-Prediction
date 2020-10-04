@@ -9,7 +9,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ### Methods Used
 * Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
-* Trained Classifiers (KNN, GaussianNB, SVM, and Artificial Neural Network) 
+* Trained Classifiers (KNN, GaussianNB, SVM, Logistics Regression, and Artificial Neural Network) 
 * Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost)
 * Evaluated Algorithms performance in metrics
 
@@ -34,15 +34,17 @@ The purpose of this project is to predict behaviors to retain customers.
 
 #### Machine Learning
 
-* k-nearest neighbors (Tuned hyperparameters: )
-* GaussianNB (Tuned hyperparameters: )
-* SVM (Tuned hyperparameters: )
+* k-nearest neighbors (Tuned hyperparameters: n_neighbors, leaf_size, p, algorithm)
+* GaussianNB (Tuned hyperparameters: var_smoothing)
+* Logistics Regression (Tuned hyperparameters: solver, penalty, C)
+* SVM (Tuned hyperparameters: kernel, gamma(kernel='rbf'), C)
+* Decision Tree (Tuned hyperparameters: criterion, max_depth, min_samples_split, max_features)
 
 #### Tree-based Ensemble Methods
 
-* Random Forest (Tuned hyperparameters: )
-* Adaboost (Tuned hyperparameters: )
-* XGBoos (Tuned hyperparameters: )
+* Random Forest (Tuned hyperparameters: criterion, max_depth, min_samples_split, max_features, n_estimators)
+* Adaboost (Tuned hyperparameters: n_estimators, learning_rate)
+* XGBoost (Tuned hyperparameters: learning_rate, max_depth, min_child_weight, gamma, colsample_bytree, reg_alpha, subsample, colsample_bytree)
 
 #### Neural network
 
