@@ -73,7 +73,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ## Further Work
 
-To further understand the performance of the best classifier, plot AdaBoost learning curve:
+To further understand AdaBoost performance, plot its learning curve:
 
 ![learningcurve](https://user-images.githubusercontent.com/49653689/94983763-e5a14100-0513-11eb-8f4d-b027883dad27.png)
 
