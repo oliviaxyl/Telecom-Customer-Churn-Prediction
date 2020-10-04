@@ -77,15 +77,8 @@ To further understand AdaBoost performance, plot its learning curve:
 
 ![learningcurve](https://user-images.githubusercontent.com/49653689/94983763-e5a14100-0513-11eb-8f4d-b027883dad27.png)
 
-Training score (red line) decreases and plateau
-Indicates underfitting
-High bias
+According to the plot, training score (red line) decreases and plateau, which indicates underfitting with high bias. Cross-validation score (green line) stagnating throughout, and unable to learn from the data. Not surprising, refer back to 5 pc scores visualization graph, these scores show that there is no apparent separation between the two clusters. To further improve model accuracy, we can perhaps increase model complexity. Specifically, increase number of trees in the forest for AdaBoost training. However, 
 
-Cross-validation score (green line) stagnating throughout
-Unable to learn from data
-
-Low scores (high errors)
-Should tweak model (perhaps increase model complexity)
 
 ## Reference
 
