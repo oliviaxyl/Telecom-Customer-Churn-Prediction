@@ -85,6 +85,12 @@ Should tweak model (perhaps increase model complexity)
 
 ## Reference
 
+KNN
+https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+
+Support Vector Machine — Simply Explained
+https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
+
 Gaussian NB
 https://scikit-learn.org/stable/modules/naive_bayes.html
 
