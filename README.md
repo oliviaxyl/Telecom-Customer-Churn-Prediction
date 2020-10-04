@@ -30,21 +30,21 @@ The purpose of this project is to predict behaviors to retain customers.
 * One-Hot Encoding and only dummies which correlation < 50% retained
 * PCA dimension reduction (100% variance with 23/45 dummies)
 
-### Model Training
+### Model Training & Hyperparameters Tuning
 
 #### Machine Learning
 
-* k-nearest neighbors (Tuned hyperparameters: n_neighbors, leaf_size, p, algorithm)
-* GaussianNB (Tuned hyperparameters: var_smoothing)
-* Logistics Regression (Tuned hyperparameters: solver, penalty, C)
-* SVM (Tuned hyperparameters: kernel, gamma(kernel='rbf'), C)
-* Decision Tree (Tuned hyperparameters: criterion, max_depth, min_samples_split, max_features)
+* k-nearest neighbors (n_neighbors, leaf_size, p, algorithm)
+* GaussianNB (var_smoothing)
+* Logistics Regression (solver, penalty, C)
+* SVM (kernel, gamma(kernel='rbf'), C)
+* Decision Tree (criterion, max_depth, min_samples_split, max_features)
 
 #### Tree-based Ensemble Methods
 
-* Random Forest (Tuned hyperparameters: criterion, max_depth, min_samples_split, max_features, n_estimators)
-* Adaboost (Tuned hyperparameters: n_estimators, learning_rate)
-* XGBoost (Tuned hyperparameters: learning_rate, max_depth, min_child_weight, gamma, colsample_bytree, reg_alpha, subsample, colsample_bytree)
+* Random Forest (criterion, max_depth, min_samples_split, max_features, n_estimators)
+* Adaboost (n_estimators, learning_rate)
+* XGBoost (learning_rate, max_depth, min_child_weight, gamma, colsample_bytree, reg_alpha, subsample, colsample_bytree)
 
 #### Neural network
 
