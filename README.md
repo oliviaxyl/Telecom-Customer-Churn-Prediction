@@ -62,7 +62,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 * Random Forest Classifier: 75.67%
 
-* AdaBoost: 77.14% (Best Model) 
+* **AdaBoost: 77.14% (Best Model)**
 
 * XGBoost: 76.74%
 
