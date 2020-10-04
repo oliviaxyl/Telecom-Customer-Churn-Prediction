@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to predict behavior to retain customers.
+The purpose of this project is to predict behaviors to retain customers.
 
 ### Methods Used
 * Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
