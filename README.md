@@ -48,7 +48,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 #### Neural network
 
-* Artificial Neural Network (Tuned hyperparameters: )
+* Artificial Neural Network (batch_size, epochs, optimizer)
 
 ### Test Accuracy
 
