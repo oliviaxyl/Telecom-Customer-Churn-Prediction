@@ -32,7 +32,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ### Model Training & Hyperparameters Tuning
 
-#### Machine Learning
+#### Machine Learning Classifier
 
 * k-nearest neighbors (n_neighbors, leaf_size, p, algorithm)
 * GaussianNB (var_smoothing)
