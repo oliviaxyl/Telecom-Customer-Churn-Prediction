@@ -8,10 +8,10 @@
 The purpose of this project is to predict behaviors to retain customers.
 
 ### Methods Used
-* Performed Data Preprocessing / Cleaning / Feature Engineering / Data Visualization
+* Performed Data Preprocessing and Feature Engineering
 * Trained Classifiers (KNN, GaussianNB, SVM, Logistics Regression, and Artificial Neural Network) 
 * Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost)
-* Evaluated Algorithms performance in metrics
+* Evaluated Algorithms Performance in Metrics
 
 ### Technologies
 * Jupyter, Python 3
