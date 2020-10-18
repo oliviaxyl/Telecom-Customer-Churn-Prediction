@@ -8,10 +8,10 @@
 The purpose of this project is to predict behaviors to retain customers.
 
 ### Methods Used
-* Performed Data Preprocessing and Feature Engineering
-* Trained Classifiers (KNN, GaussianNB, SVM, Logistics Regression, and Artificial Neural Network) 
-* Implemented Tree-based Ensemble Methods (Random Forest, Adaboost and XGBoost)
-* Evaluated Algorithms Performance in Metrics
+* Performed data preprocessing and feature engineering
+* Trained classifiers (KNN, GaussianNB, SVM, Logistics Regression, and Artificial Neural Network) 
+* Implemented tree-based ensemble methods (Random Forest, Adaboost and XGBoost)
+* Evaluated algorithms performance in metrics
 
 ### Technologies
 * Jupyter, Python 3
@@ -25,9 +25,9 @@ The purpose of this project is to predict behaviors to retain customers.
 
 ### Data Pre-processing
 
-* Replaced missing 'TotalCharges' with its mean value
+* Replaced missing value in 'TotalCharges' with mean value
 * Under-sampled 'Churn' to 'No Churn' ratio to 1:1
-* One-Hot Encoding and only dummies which correlation < 50% retained
+* One-Hot encoding and only dummies which correlation < 50% retained
 * PCA dimension reduction (100% variance with 23/45 dummies)
 
 ### Model Training & Hyperparameters Tuning
