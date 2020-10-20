@@ -50,7 +50,7 @@ The purpose of this project is to predict behaviors to retain customers.
 
 * Artificial Neural Network (batch_size, epochs, optimizer)
 
-### Test Accuracy
+### Test Accuracy 
 
 * Logistics Regression: 74.73%
 
